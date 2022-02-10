@@ -1,0 +1,3 @@
+/home/oem/Downloads/yolov5-onnxruntime-master/build/CMakeFiles/rebuild_cache.dir
+/home/oem/Downloads/yolov5-onnxruntime-master/build/CMakeFiles/edit_cache.dir
+/home/oem/Downloads/yolov5-onnxruntime-master/build/CMakeFiles/yolo_ort.dir
